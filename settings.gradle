@@ -1,0 +1,3 @@
+include ':applocker'
+include ':app'
+rootProject.name = "AppLockerLibrary"

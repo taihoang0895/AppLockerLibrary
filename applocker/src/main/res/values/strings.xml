@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_locker_description_setting">Protect personal settings</string>
+    <string name="app_locker_description_message">Protect your private message</string>
+    <string name="app_locker_description_gmail">Protect your mail from snoopers</string>
+    <string name="app_locker_description_social">Protect social infos from snoopers</string>
+    <string name="app_locker_description_gallery">Keep photos noopers away</string>
+    <string name="app_locker_description_browser">Protect sensitive browsing history</string>
+    <string name="app_locker_description_chrome">Protect sensitive browsing history</string>
+    <string name="app_locker_description_contact">Prevent call records snoopers</string>
+    <string name="app_locker_description_play_store">Protect store from snoopers</string>
+    <string name="app_locker_description_system_ui">Protect System UI</string>
+    <string name="app_locker_contact_name">Contact</string>
+    <string name="app_locker_description_drive">Keep your Drive safe</string>
+    <string name="app_locker_screen_title">App Locker</string>
+    <string name="app_locker_description_files">Keep your file safe</string>
+    <string name="app_locker_screen_unlock_to_use_app_lock">Unlock to use App Lock Function</string>
+    <string name="app_locker_screen_forgot_password">Forgot Password</string>
+</resources>
